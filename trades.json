@@ -1,0 +1,423 @@
+{
+  "trades": [{
+    "uuid": "20e31aef-b718-46a5-a7ee-77982e093786",
+    "updatedAt": "Wed May 16 2018 01:17:41 GMT+1000 (AEST)",
+    "volume": "8.72005",
+    "price": "4874.44",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "c5229898-0afe-4b87-87e0-de451f6c1f30",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "26eb5b0d-751b-4e7b-83da-28c9ae2b3c4b",
+    "updatedAt": "Sat May 05 2018 05:20:31 GMT+1000 (AEST)",
+    "volume": "7.14398",
+    "price": "2349.92",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "493746ad-2269-4fce-8e4a-c2be0f60bebe",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "429aec2e-5ebc-418c-9e5b-70a5a6017365",
+    "updatedAt": "Wed Feb 20 2019 12:40:23 GMT+1100 (AEDT)",
+    "volume": "1.16698",
+    "price": "5845.19",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "c26cc2d3-a8d0-40eb-a39d-daf9920005b5",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "056e61c0-4822-4269-a90c-8448b1596164",
+    "updatedAt": "Thu Sep 13 2018 22:51:36 GMT+1000 (AEST)",
+    "volume": "9.13289",
+    "price": "6643.10",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "bfa816cd-f111-46c4-8d9c-9f6a1f541f81",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "8e4b5ffc-17da-4241-9580-979e9830f2fd",
+    "updatedAt": "Tue Jan 15 2019 05:03:00 GMT+1100 (AEDT)",
+    "volume": "4.10654",
+    "price": "1717.10",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "2d6a3336-a149-43ba-a653-d2fd712a45e2",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "ca26c141-4f00-4b3f-a0d2-35fb76c5ab2b",
+    "updatedAt": "Tue Sep 25 2018 00:32:32 GMT+1000 (AEST)",
+    "volume": "9.24711",
+    "price": "15699",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "32db9e74-b965-47fe-a903-281c02274a94",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "19402a95-c53c-4238-a28e-80403a217cd0",
+    "updatedAt": "Wed Feb 27 2019 05:22:45 GMT+1100 (AEDT)",
+    "volume": "2.84964",
+    "price": "7770.88",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "de75a50e-59f6-41e6-ab84-3df89bc12049",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "0739f432-ae09-4e5d-8fc6-122c63b74122",
+    "updatedAt": "Fri Feb 22 2019 21:24:31 GMT+1100 (AEDT)",
+    "volume": "2.88055",
+    "price": "9355.41",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "465574b4-c4a5-48e2-8031-f7df5ba0d233",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "26a41817-7893-4a7c-b7f4-4b6ceac3d543",
+    "updatedAt": "Mon Jan 14 2019 16:37:30 GMT+1100 (AEDT)",
+    "volume": "6.62616",
+    "price": "7528.18",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "a207466e-d7e5-42d7-a6b5-8e4354f3c75e",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "6008973c-4ab3-4ed8-8507-7aaf1657defa",
+    "updatedAt": "Mon Dec 17 2018 14:03:52 GMT+1100 (AEDT)",
+    "volume": "3.84514",
+    "price": "9646.90",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "d5bcc5a1-1cfd-42c4-bd30-ba62150a2905",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "d3e58221-b9f5-46b9-bfea-e33f2d6d9222",
+    "updatedAt": "Tue Nov 13 2018 20:50:36 GMT+1100 (AEDT)",
+    "volume": "3.31153",
+    "price": "2397.28",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "94d739e4-7033-484e-b615-d37ac2abe6f8",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "59519a88-e8af-4ab3-a29e-c3c8f97ba2e5",
+    "updatedAt": "Tue Mar 12 2019 15:01:23 GMT+1100 (AEDT)",
+    "volume": "6.65468",
+    "price": "2937.39",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "c55fb180-c60d-43cb-977f-aecd0835f673",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "c863f1ec-7530-4495-b825-1b2127ad1843",
+    "updatedAt": "Sat Oct 13 2018 02:22:26 GMT+1100 (AEDT)",
+    "volume": "4.52327",
+    "price": "6754.31",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "68e1ad79-44ea-450e-97dc-0f43ce09e5ce",
+      "symbol": "BTC/AUD"
+    }
+  }, {
+    "uuid": "d51d82cf-ac5e-45f4-bfe0-511592671a3c",
+    "updatedAt": "Fri Oct 12 2018 10:22:36 GMT+1100 (AEDT)",
+    "volume": "6.45460",
+    "price": "1351.55",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "3b478ce9-c1bc-4a1d-8eaf-36c8b2c6484c",
+      "symbol": "BTC/AUD"
+    }
+  }, {
+    "uuid": "81226e1d-af91-4395-99db-323aecb72568",
+    "updatedAt": "Fri Apr 20 2018 06:21:26 GMT+1000 (AEST)",
+    "volume": "4.66409",
+    "price": "6844.49",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "470276b5-e620-402c-b4c2-6c497d0b6582",
+      "symbol": "BTC/AUD"
+    }
+  }, {
+    "uuid": "e5d68442-8cf2-4a49-a20e-d0d43bbab7b1",
+    "updatedAt": "Mon Feb 11 2019 09:42:00 GMT+1100 (AEDT)",
+    "volume": "2.90454",
+    "price": "3059.56",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "1be3edbc-6e72-4f3a-a180-1741a2778a4a",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "9364a6ca-aa65-4c93-b99f-b09429d2e8a1",
+    "updatedAt": "Sat Feb 23 2019 13:15:18 GMT+1100 (AEDT)",
+    "volume": "8.48921",
+    "price": "3774.22",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "ad9bc24e-cc36-4708-9c5a-3163611c22f1",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "4dca0beb-9274-4f27-af3b-0fa89e753100",
+    "updatedAt": "Sun Oct 28 2018 16:11:21 GMT+1100 (AEDT)",
+    "volume": "3.59470",
+    "price": "4471.29",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "6473f44d-a661-48f1-b98c-85179dc48cca",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "ad3da957-faf9-407c-9736-6100824c6412",
+    "updatedAt": "Sat Nov 24 2018 06:52:22 GMT+1100 (AEDT)",
+    "volume": "2.20947",
+    "price": "3305.72",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "5068cb4b-3c30-43f1-a729-18e76b6c8483",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "950680b1-920b-437f-80ff-5e6b89640859",
+    "updatedAt": "Thu Jan 31 2019 05:52:31 GMT+1100 (AEDT)",
+    "volume": "4.32496",
+    "price": "7123.75",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "6f38edec-9d25-43d0-8224-68d5f5c7aed0",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "23698f9e-bedd-4ca6-8490-4eeba6eb3856",
+    "updatedAt": "Tue May 15 2018 05:36:18 GMT+1000 (AEST)",
+    "volume": "9.4682",
+    "price": "3376.35",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "d868a746-49cf-4ab9-bce8-c3ab141769b9",
+      "symbol": "ETH/BTC"
+    }
+  }, {
+    "uuid": "6c26f1e5-18e8-45c0-89d0-f9c91e2d7852",
+    "updatedAt": "Tue Aug 07 2018 09:33:21 GMT+1000 (AEST)",
+    "volume": "8.16325",
+    "price": "5298.39",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "9a77bdc9-749c-4722-b9b0-dadbcce4bfe9",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "75adde4f-f080-4873-af64-7de9a70e5712",
+    "updatedAt": "Tue Oct 02 2018 04:17:29 GMT+1000 (AEST)",
+    "volume": "2.19778",
+    "price": "6355.55",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "b2d13e38-0931-47f9-b5fc-047b2bf50a2f",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "e2952989-395f-4a99-ac53-524f0df25ccd",
+    "updatedAt": "Mon Jan 07 2019 20:51:04 GMT+1100 (AEDT)",
+    "volume": "6.62945",
+    "price": "4070.33",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "7f08a2a9-b296-411e-9a4f-c8f883892cef",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "7a47ac76-b6ae-41ce-9922-721d8b071291",
+    "updatedAt": "Thu Sep 27 2018 12:48:48 GMT+1000 (AEST)",
+    "volume": "7.93551",
+    "price": "5197.78",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "eb34a022-be90-494f-ae1b-a375b9d847bd",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "2c3a4b1c-d4cd-4cf4-8014-5364f39a519d",
+    "updatedAt": "Thu Apr 12 2018 22:06:10 GMT+1000 (AEST)",
+    "volume": "6.37891",
+    "price": "7869.26",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "4bf06f69-7b33-43de-a3d5-3875985ecb74",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "35459fa8-7729-49b3-8243-04f38ddde82f",
+    "updatedAt": "Tue Aug 14 2018 10:41:19 GMT+1000 (AEST)",
+    "volume": "9.91175",
+    "price": "9565.84",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "855c8499-d164-4c76-83e3-0b1617e14761",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "0846bb6d-71ee-43b0-9e0e-96d5d4695ff7",
+    "updatedAt": "Tue Mar 05 2019 22:27:17 GMT+1100 (AEDT)",
+    "volume": "6.45843",
+    "price": "4196.40",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "f46b739d-07d1-4519-bf00-146feafad95d",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "73dbdf35-4a94-467c-8fb6-318e7597d795",
+    "updatedAt": "Sat Dec 15 2018 05:14:18 GMT+1100 (AEDT)",
+    "volume": "2.87688",
+    "price": "7459.35",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "9bd38acf-17c1-4ce0-a8ea-9538af2ebb6f",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "13df0f7e-0e93-407f-b2dd-4c471751fa73",
+    "updatedAt": "Fri Dec 07 2018 20:40:37 GMT+1100 (AEDT)",
+    "volume": "3.66124",
+    "price": "6236.89",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "779d959a-15a6-4676-bb63-8b6b8ebc238d",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "6d223bf1-98ae-4dc1-92da-87a3837c1fb5",
+    "updatedAt": "Sat Sep 22 2018 12:38:59 GMT+1000 (AEST)",
+    "volume": "9.12748",
+    "price": "6033.24",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "6e8bc7d5-46f7-42a5-bbf5-a1fdcc9474d4",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "c975f942-5578-4de0-8684-f050ca47382b",
+    "updatedAt": "Tue Jun 05 2018 07:35:48 GMT+1000 (AEST)",
+    "volume": "8.10884",
+    "price": "8923.35",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "47e88af0-ebd1-4e32-951a-493c88c954a5",
+      "symbol": "BTC/AUD"
+    }
+  }, {
+    "uuid": "6604c8bc-eb2b-4c70-a8c8-a68cfc28e8c1",
+    "updatedAt": "Sat Jul 07 2018 20:26:24 GMT+1000 (AEST)",
+    "volume": "5.61527",
+    "price": "4126.87",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "806c562c-6393-4f17-bc3f-9b5997e5e7da",
+      "symbol": "BTC/AUD"
+    }
+  }, {
+    "uuid": "f7ea1e76-78d2-498f-bc14-e4929cbd2cf0",
+    "updatedAt": "Mon Aug 13 2018 08:24:27 GMT+1000 (AEST)",
+    "volume": "2.30348",
+    "price": "8853.57",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "8447cafb-c82e-4444-8a5d-ad65ff1fab40",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "25b5cfb7-33d0-40ff-a037-cf347f673363",
+    "updatedAt": "Sun Aug 05 2018 07:00:14 GMT+1000 (AEST)",
+    "volume": "2.67671",
+    "price": "4723.75",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "e08a85ed-4fec-4cf0-bef1-e1d25aaeb903",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "81b5fe38-f05b-4c56-b1c2-d8a91521a6c1",
+    "updatedAt": "Thu Aug 16 2018 13:41:12 GMT+1000 (AEST)",
+    "volume": "4.18531",
+    "price": "5694.32",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "866a37e0-5aaa-4420-afb5-455d6ab8492b",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "82c3d749-97ad-412e-8f6e-da0c9f6c5d84",
+    "updatedAt": "Tue Jul 24 2018 19:57:33 GMT+1000 (AEST)",
+    "volume": "4.37003",
+    "price": "2775.31",
+    "side": "BID",
+    "tradingPair": {
+      "uuid": "8df33242-099c-4cf0-a332-4810401b189b",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "8fc61b92-7fb8-42b1-ab7c-8991c0dd06da",
+    "updatedAt": "Sun Jul 15 2018 16:43:35 GMT+1000 (AEST)",
+    "volume": "2.93096",
+    "price": "6557.11",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "a30e2c4c-cd90-4019-811a-27363062394b",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "9ae10962-d0db-40a0-9a9e-165ee1a58156",
+    "updatedAt": "Thu Apr 19 2018 01:35:17 GMT+1000 (AEST)",
+    "volume": "3.63083",
+    "price": "92499",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "4305375a-abcb-41d8-9dbc-a230a7da1ae7",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "69e7760d-c741-462b-9ac0-1d130f162797",
+    "updatedAt": "Wed Apr 11 2018 12:51:07 GMT+1000 (AEST)",
+    "volume": "9.66827",
+    "price": "6530.38",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "c184a5b1-7748-4818-85f3-dddcdbc4fe0d",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "fe32b26e-9e02-4309-8943-8f31ecbfde8c",
+    "updatedAt": "Wed Jan 30 2019 10:10:16 GMT+1100 (AEDT)",
+    "volume": "8.92587",
+    "price": "6795.33",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "ea8f0f55-d538-4cd9-aebc-01c507e0986c",
+      "symbol": "ETH/AUD"
+    }
+  }, {
+    "uuid": "912b7900-b217-4a74-9df5-5ef742939e9a",
+    "updatedAt": "Tue Mar 12 2019 21:50:44 GMT+1100 (AEDT)",
+    "volume": "3.3695",
+    "price": "7171.71",
+    "side": "ASK",
+    "tradingPair": {
+      "uuid": "16b1110c-89b3-434d-87a5-6240707fc3b2",
+      "symbol": "ETH/AUD"
+    }
+  }]
+}
