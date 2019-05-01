@@ -56,7 +56,7 @@ const RootQuery = new GraphQLObjectType({
       resolve(parent, args){
         let filterResult =[];
         let dateResult = [];
-        let result, total, size;
+        let result;
         if(args.filter[0] != ""){
           args.filter.forEach((filter) => {
             let newObj = trades.trades.filter(trade => trade.side == filter || trade.tradingPair.symbol == filter);
