@@ -1,5 +1,4 @@
 import { GraphQLObjectType, GraphQLString, GraphQLList, GraphQLInt, GraphQLSchema } from 'graphql';
-import _ from 'lodash';
 import trades from '../trades.json';
 
 const TradeType = new GraphQLObjectType({
@@ -60,9 +59,7 @@ const RootQuery = new GraphQLObjectType({
         let result, total, size;
         if(args.filter[0] != ""){
           args.filter.forEach((filter) => {
-            console.log(filter)
             let newObj = trades.trades.filter(trade => trade.side == filter || trade.tradingPair.symbol == filter);
-            console.log(filterResult)
             filterResult = [...newObj, ...filterResult];
           });
         } else {
