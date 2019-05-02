@@ -70,19 +70,19 @@
     "createdAt": "2019-03-18T06:30:04.052Z",
     "amount": "111.0",
     "status": "PROCESSED",
-    "bankReferenceNumber ": "HOME_LOAN_ACCOUNT"
+    "bankReferenceNumber": "HOME_LOAN_ACCOUNT"
   }, {
     "uuid": "801d890e-f58c-4d7d-876c-b2135d5d735e",
     "createdAt": "2019-03-18T06:25:05.953Z",
     "amount": "111.0",
     "status": "PROCESSED",
-    "bankReferenceNumber ": "HOME_LOAN_ACCOUNT"
+    "bankReferenceNumber": "HOME_LOAN_ACCOUNT"
   }, {
     "uuid": "569a8cd9-f317-4406-969a-f66335e81efd",
     "createdAt": "2019-03-18T05:51:54.903Z",
     "amount": "200.0",
     "status": "PROCESSED",
-    "bankReferenceNumber ": "BANDWIDTH"
+    "bankReferenceNumber": "BANDWIDTH"
   }, {
     "uuid": "86d159b3-dc31-427b-879e-b1cc7659b464",
     "createdAt": "2019-03-18T00:23:19.082Z",

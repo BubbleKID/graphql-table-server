@@ -59,6 +59,7 @@ const RootQuery = new GraphQLObjectType({
         dateResult = filterResult.filter(withdraw=>
           (new Date(withdraw.createdAt) >= new Date(args.fromDate)) && (new Date(withdraw.createdAt) <= new Date(args.toDate))
         );
+
         if(args.searchString !== ""){
           result = dateResult.filter(withdraw =>
             withdraw.uuid.includes(args.searchString) || withdraw.amount.includes(args.searchString) || withdraw.bankReferenceNumber.includes(args.searchString)
@@ -66,12 +67,14 @@ const RootQuery = new GraphQLObjectType({
         } else {
           result =  dateResult;
         }
+        console.log(result);
         const returnValue = {
           withdraws: result.slice((args.number-1) * args.size, args.number * args.size),
           pageInfo:{
             total: result.length,
           }
         }
+
         return returnValue;
       }
     }
